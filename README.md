@@ -1,2 +1,0 @@
-# PyDroid
-Watch Me Go!
